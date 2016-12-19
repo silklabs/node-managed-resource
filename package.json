@@ -2,7 +2,10 @@
   "name": "managed-resource",
   "version": "0.0.2",
   "description": "Objects deriving from this class will invoke a destructor callback before being garbage-collected.",
-  "repository": "silklabs/node-managed-resource",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/silklabs/node-managed-resource.git"
+  },
   "main": "index.js",
   "keywords": [
     "gc"
