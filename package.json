@@ -1,7 +1,7 @@
 {
   "name": "managed-resource",
-  "version": "0.0.1",
-  "description": "objects deriving from this class will invoke a destructor callback before being garbage collected",
+  "version": "0.0.2",
+  "description": "Objects deriving from this class will invoke a destructor callback before being garbage-collected.",
   "repository": "silklabs/node-managed-resource",
   "main": "index.js",
   "keywords": [
